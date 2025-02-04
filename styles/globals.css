@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Wzór konturowy topograficzny */
+body {
+    background-color: #ff61b5;
+  }
+  
